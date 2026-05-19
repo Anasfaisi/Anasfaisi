@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Anas Faisi
 
-<!--
-**Anasfaisi/Anasfaisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research oriented software developer focused on building scalable learning systems and real-world applications.
 
-Here are some ideas to get you started:
+Currently learning:
+- System design
+- Backend architecture
+- React ecosystem
+- Software engineering principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Care About
+- Strong fundamentals
+- Clean architecture
+- Developer experience
+- Learning through building
+
+## Featured Projects
+- Efficacy → Guided learning platform
+- Sneakify → An e-commerce Application
+
+## Tech Stack
+Frontend:
+- React
+- bootstrap
+- Tailwind
+
+Backend:
+- Node.js
+- Express
+
+Database
+- MongoDB
+- PostreSQL
+
+Tools:
+- Git
+- Docker
+- Postman
+
+## Current Goals
+- Improve backend scalability
+- Contribute to open source
+- Build production-grade projects
+
+## Contact
+LinkedIn:www.linkedin.com/in/anasc01
+Email:anasfaisi008@gmail.com
